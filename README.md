@@ -2,7 +2,7 @@
 <h2>AIM</h2>
       To develop a Website with a picture and Some details with Title,paragraph and link .
 <h3>CODE</h3>
-```
+   ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -48,7 +48,7 @@
     
 </body>
 </html>
-```
+    ```
 <h3>RESULT</h3>
 Thus the Website is Created Successfuly.
      
